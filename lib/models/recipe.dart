@@ -9,6 +9,7 @@ class Recipe {
   final List<String> ingredientsTopping;
   final List<String> preparationModePaste;
   final List<String> preparationModeTopping;
+
   Recipe({
     required this.photo,
     required this.name,
